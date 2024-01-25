@@ -1,0 +1,16 @@
+.bar {
+    background-color: black;
+    color: white;
+    list-style: none;
+    width : 50px;
+    padding :5px;
+  }
+  
+.home:hover {
+    background-color: red;
+}
+
+.about:hover {
+    background-color: blue;
+}
+  
